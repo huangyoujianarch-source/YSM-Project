@@ -1,8 +1,8 @@
-# 📊 Impact of Program Engagement on Participant Outcomes
+# Impact of Program Engagement on Participant Outcomes
 
 ## 🔍 Project Overview
 
-This project analyzes how participant engagement in a goal-setting program relates to outcome scores across different demographic groups and time periods.
+This project analyzes how participant engagement in goal-setting programs relates to outcome scores across different demographic groups and time periods.
 
 The goal is to move beyond simple performance comparison and understand:
 
@@ -12,11 +12,11 @@ The goal is to move beyond simple performance comparison and understand:
 
 ---
 
-## 🎯 Key Insight
+## Key Insight
 
 > The biggest challenge is not performance — it is participation.
 
-**59.35% of participants (2,484 individuals) show no engagement at all**, revealing a critical gap in program adoption.
+**59.35% of participants (2,484 individuals) show no engagement in goal-setting programs at all**, revealing a critical gap in goal-setting programs adoption.
 
 ---
 
@@ -36,10 +36,10 @@ The goal is to move beyond simple performance comparison and understand:
 
 ### 🔴 1. Critical Engagement Gap
 
-59.35% of participants are not engaged in the program.
+59.35% of participants are not engaged in the goal-setting programs.
 
 This suggests a major barrier in:
-- program accessibility  
+- goal-setting programs accessibility  
 - awareness  
 - or motivation  
 
@@ -47,15 +47,15 @@ This suggests a major barrier in:
 
 ### 🟢 2. Engagement Peaks in Young Adults (18–40)
 
-Participants aged **18–40** show the highest engagement levels, with a strong presence in the High (10+) group.
+Participants aged **18–40** show the highest engagement levels in goal-setting programs, with a strong presence in the High (10+) group.
 
-👉 Indicates this group is more responsive to structured programs.
+👉 Indicates this group is more responsive to goal-setting programs.
 
 ---
 
 ### 🟠 3. Low Engagement in Under 18 and Over 60 Groups
 
-Both **Under 18** and **Over 60** groups are dominated by non-participation.
+Both **Under 18** and **Over 60** groups are dominated by non-participation in goal-setting programs.
 
 👉 Suggests:
 - potential accessibility barriers  
@@ -76,9 +76,9 @@ Both **Under 18** and **Over 60** groups are dominated by non-participation.
 
 ### ⚪ 5. Highly Engaged Users Are a Minority
 
-Although critical to program success, highly engaged participants represent only a small portion of the total population.
+Although critical to program success, highly engaged participants in goal-setting programs represent only a small portion of the total population.
 
-👉 The biggest opportunity lies in activating the non-participating majority.
+👉 The biggest opportunity lies in activating the non-participating in goal-setting programs majority.
 
 ---
 
