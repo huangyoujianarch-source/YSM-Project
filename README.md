@@ -40,7 +40,7 @@ It focuses on answering:
 
 ### 🧩 Dashboard 2 — Outcomes & Engagement Impact
 
-![Dashboard 2](images/Dashboard2.jpg)
+![Dashboard2](images/Dashboard2.jpg)
 
 **Focus:**
 - Score progression over time  
