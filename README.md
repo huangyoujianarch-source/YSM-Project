@@ -32,9 +32,9 @@ The goal is to move beyond simple performance comparison and understand:
 
 ---
 
-## 🧠 Key Insights (Participation)
+## Key Insights (Participation)
 
-### 🔴 1. Critical Engagement Gap
+### 1. Critical Engagement Gap
 
 59.35% of participants are not engaged in the goal-setting programs.
 
@@ -45,7 +45,7 @@ This suggests a major barrier in:
 
 ---
 
-### 🟢 2. Engagement Peaks in Young Adults (18–40)
+### 2. Engagement Peaks in Young Adults (18–40)
 
 Participants aged **18–40** show the highest engagement levels in goal-setting programs, with a strong presence in the High (10+) group.
 
@@ -53,7 +53,7 @@ Participants aged **18–40** show the highest engagement levels in goal-setting
 
 ---
 
-### 🟠 3. Low Engagement in Under 18 and Over 60 Groups
+### 3. Low Engagement in Under 18 and Over 60 Groups
 
 Both **Under 18** and **Over 60** groups are dominated by non-participation in goal-setting programs.
 
@@ -63,7 +63,7 @@ Both **Under 18** and **Over 60** groups are dominated by non-participation in g
 
 ---
 
-### 🔵 4. Gender-Based Participation Differences
+### 4. Gender-Based Participation Differences
 
 - Women show slightly higher engagement than men  
 - Participants with **unknown gender** have the lowest engagement  
@@ -74,7 +74,7 @@ Both **Under 18** and **Over 60** groups are dominated by non-participation in g
 
 ---
 
-### ⚪ 5. Highly Engaged Users Are a Minority
+### 5. Highly Engaged Users Are a Minority
 
 Although critical to program success, highly engaged participants in goal-setting programs represent only a small portion of the total population.
 
@@ -94,9 +94,9 @@ Although critical to program success, highly engaged participants in goal-settin
 
 ---
 
-## 🧠 Key Insights (Outcomes)
+## Key Insights (Outcomes)
 
-### 📈 1. High Participation in goal-setting programs Drives Strongest Improvement
+### 1. High Participation in goal-setting programs Drives Strongest Improvement
 
 Participants in the **High (10+) group** show the largest score increase over time:
 
@@ -106,7 +106,7 @@ This indicates that engagement in goal-setting programs plays a key role in **gr
 
 ---
 
-### ⚖️ 2. No Participation in goal-setting programs Group Starts Higher but Improves Less
+### 2. No Participation in goal-setting programs Group Starts Higher but Improves Less
 
 Participants with no engagement in goal-setting programs often have higher baseline scores.
 
@@ -119,7 +119,7 @@ However:
 
 ---
 
-### 📊 3. Engagement in goal-setting programs Improves Consistency
+### 3. Engagement in goal-setting programs Improves Consistency
 
 High participation groups show:
 
@@ -130,7 +130,7 @@ High participation groups show:
 
 ---
 
-### 👥 4. Age Differences Remain Important
+### 4. Age Differences Remain Important
 
 Across age groups:
 
@@ -141,7 +141,7 @@ Across age groups:
 
 ---
 
-## 🧠 Interpretation
+## Interpretation
 
 This analysis highlights an important distinction:
 
@@ -152,7 +152,7 @@ This analysis highlights an important distinction:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Missing data in baseline and closing assessments  
 - Small sample sizes in some age groups  
@@ -160,7 +160,7 @@ This analysis highlights an important distinction:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **R** — data cleaning and transformation  
 - **Tableau** — data visualization and dashboard design  
@@ -168,7 +168,7 @@ This analysis highlights an important distinction:
 
 ---
 
-## 💬 Reflection
+## Reflection
 
 This project helped me move beyond describing data to interpreting it.
 
@@ -180,7 +180,7 @@ Instead of focusing only on *what the data shows*, I focused on:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 Future exploration could include:
 
