@@ -26,7 +26,7 @@ It focuses on answering:
 
 ### 🧩 Dashboard 1 — Participation Overview
 
-![Dashboard 1](images/Dashboard1.jpg)
+![Dashboard 1](images/Dashboard1.jpg) 
 
 **Focus:**
 - Distribution of engagement levels  
