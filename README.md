@@ -1,4 +1,4 @@
-# Impact of Program Engagement on Participant Outcomes
+# Impact of Goal-Setting Program Engagement on Participant Outcomes
 
 ## 🔍 Project Overview
 
@@ -96,30 +96,30 @@ Although critical to program success, highly engaged participants in goal-settin
 
 ## 🧠 Key Insights (Outcomes)
 
-### 📈 1. High Participation Drives Strongest Improvement
+### 📈 1. High Participation in goal-setting programs Drives Strongest Improvement
 
 Participants in the **High (10+) group** show the largest score increase over time:
 
 👉 **+0.48 average increase**
 
-This indicates that engagement plays a key role in **growth**, not just performance.
+This indicates that engagement in goal-setting programs plays a key role in **growth**, not just performance.
 
 ---
 
-### ⚖️ 2. No Participation Group Starts Higher but Improves Less
+### ⚖️ 2. No Participation in goal-setting programs Group Starts Higher but Improves Less
 
-Participants with no engagement often have higher baseline scores.
+Participants with no engagement in goal-setting programs often have higher baseline scores.
 
 However:
 
 - Their improvement over time is minimal  
 - Their performance remains relatively flat  
 
-👉 Suggests they may already be higher-performing but not benefiting from the program.
+👉 Suggests they may already be higher-performing but not benefiting from the goal-setting programsprogram.
 
 ---
 
-### 📊 3. Engagement Improves Consistency
+### 📊 3. Engagement in goal-setting programs Improves Consistency
 
 High participation groups show:
 
@@ -134,7 +134,7 @@ High participation groups show:
 
 Across age groups:
 
-- Engagement continues to influence outcomes  
+- Engagement in goal-setting programs continues to influence outcomes  
 - Some groups show smaller sample sizes (less reliable trends)
 
 👉 Reinforces the need for demographic-specific strategies.
@@ -145,7 +145,7 @@ Across age groups:
 
 This analysis highlights an important distinction:
 
-- Engagement does not always produce the highest final scores  
+- Engagement in goal-setting programs does not always produce the highest final scores  
 - But it strongly contributes to **score improvement and consistency**
 
 👉 The program appears to be more effective as a **growth tool** rather than a performance differentiator.
