@@ -26,7 +26,7 @@ It focuses on answering:
 
 ### 🧩 Dashboard 1 — Participation Overview
 
-![Dashboard 1](images/Dashboard1.jpg) 
+![Dashboard 1](Dashboard1.jpg) 
 
 **Focus:**
 - Distribution of engagement levels  
@@ -40,7 +40,7 @@ It focuses on answering:
 
 ### 🧩 Dashboard 2 — Outcomes & Engagement Impact
 
-![Dashboard2](images/Dashboard2.jpg)
+![Dashboard2](Dashboard2.jpg)
 
 **Focus:**
 - Score progression over time  
