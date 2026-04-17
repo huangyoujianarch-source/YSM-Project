@@ -12,6 +12,20 @@ The goal is to move beyond simple performance comparison and understand:
 
 ---
 
+## Data Description
+
+The dataset consists of program participation and outcome records from a community support organization.
+
+It includes:
+
+- **Participant demographics** (age, gender, income, housing status)  
+- **Program engagement data** (service participation, goal-setting involvement)  
+- **Outcome assessments (TIMES scores)** tracked over time (Baseline, Quarterly, Closed)  
+
+Each participant may have multiple service records and assessment entries, enabling analysis of both engagement behavior and outcome progression.
+
+---
+
 ## Key Insight
 
 > The biggest challenge is not performance — it is participation.
