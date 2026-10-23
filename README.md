@@ -8,7 +8,7 @@ The goal is to move beyond simple performance comparison and understand:
 
 - Who participates in the program
 - How engagement varies across demographics
-- Whether participation leads to better outcomes or stronger improvement
+- Whether more participation in goal-setting programs leads to better outcomes or stronger improvement
 
 ---
 
